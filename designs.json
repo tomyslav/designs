@@ -1,32 +1,38 @@
 {"designs": 
-  {
-  "id": "1",
-  "data": 
-    {
-      "title": "File",
-      "maintag": "File",
-      "tags": "File",
-      "description": "File",
-      "imagelink": "File",
-      "redbubble": "File",
-      "designbyhumans": "File",
-      "teepublic": "File",
-      "amazonmerch": "File"  
-	  }
-  },
-  {
-  "id": "2",
-  "data": 
-    {
-      "title": "File2",
-      "maintag": "File22",
-      "tags": "File222",
-      "description": "File2222",
-      "imagelink": "Fil2e",
-      "redbubble": "Fi2l22e",
-      "designbyhumans": "Fi2le",
-      "teepublic": "F22ile",
-      "amazonmerch": "F222ile"  
-    }
-  }
+	{
+	"id": "1",
+	"data": 
+		{
+		"title": "title1",
+		"maintag": "maintag1",
+		"tags": "tags,tags1,tags11,tags1144",
+		"description": "description1",
+		"imagelink": "imagelink1",
+			"sites":
+				{
+				"redbubble": "redbubbleLink1",
+				"designbyhumans": "dbhLink1",
+				"teepublic": "teepublicLink1",
+				"amazonmerch": "amzn1"
+				}  
+		}
+	},
+	{
+	"id": "1",
+	"data": 
+		{
+		"title": "title2",
+		"maintag": "maintag2",
+		"tags": "tags,tags2,tags3,tags44",
+		"description": "description2",
+		"imagelink": "imagelink2",
+		"sites":
+			{
+				"redbubble": "redbubbleLink2",
+				"designbyhumans": "dbhLink2",
+				"teepublic": "teepublicLink2",
+				"amazonmerch": "amzn1"
+			}  
+		}
+	}
 }

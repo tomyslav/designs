@@ -1,6 +1,6 @@
-{"designs": 
+{"designs": [
 	{
-	"id": "1",
+	"id": "0",
 	"data": 
 		{
 		"title": "title1",
@@ -35,4 +35,5 @@
 			}  
 		}
 	}
+	]
 }

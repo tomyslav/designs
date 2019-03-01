@@ -8,12 +8,12 @@
 		"tags": "tags,tags1,tags11,tags1144",
 		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknownelink": "http://localhost/valsymot/temp/test.jpg",
 			"sites":
-				{
+				[
 				"redbubble": "redbubbleLink1",
 				"designbyhumans": "dbhLink1",
 				"teepublic": "teepublicLink1",
 				"amazonmerch": "amzn1"
-				}  
+				] 
 		}
 	},
 	{
@@ -26,12 +26,12 @@
 		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when a type specimen book. It has survived n",
 		"imagelink": "http://localhost/valsymot/temp/test.jpg",
 		"sites":
-			{
+			[
 				"redbubble": "redbubbleLink2",
 				"designbyhumans": "dbhLink2",
 				"teepublic": "teepublicLink2",
 				"amazonmerch": "amzn1"
-			}  
+			]  
 		}
 	}
 ]

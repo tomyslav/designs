@@ -3,11 +3,10 @@
 	"id": "0",
 	"data": 
 		{
-		"title": "title1",
-		"maintag": "maintag1",
+		"title": "Image 1 title",
+		"maintag": "tag111",
 		"tags": "tags,tags1,tags11,tags1144",
-		"description": "description1",
-		"imagelink": "imagelink1",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknownelink": "http://localhost/valsymot/temp/test.jpg",
 			"sites":
 				{
 				"redbubble": "redbubbleLink1",
@@ -21,11 +20,11 @@
 	"id": "1",
 	"data": 
 		{
-		"title": "title2",
-		"maintag": "maintag2",
+		"title": "Second title is the best",
+		"maintag": "tag222",
 		"tags": "tags,tags2,tags3,tags44",
-		"description": "description2",
-		"imagelink": "imagelink2",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when a type specimen book. It has survived n",
+		"imagelink": "http://localhost/valsymot/temp/test.jpg",
 		"sites":
 			{
 				"redbubble": "redbubbleLink2",

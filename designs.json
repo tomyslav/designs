@@ -13,7 +13,7 @@
 				"designbyhumans": "dbhLink1",
 				"teepublic": "teepublicLink1",
 				"amazonmerch": "amzn1"
-				] 
+				}
 		}
 	},
 	{
@@ -31,7 +31,7 @@
 			"designbyhumans": "dbhLink2",
 			"teepublic": "teepublicLink2",
 			"amazonmerch": "amzn1"
-			]  
+			}
 		}
 	}
 ]
